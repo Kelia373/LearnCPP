@@ -1,0 +1,6 @@
+﻿  03 案例2.cpp
+C:\Users\Kelia\OneDrive\后端开发\caa\类和对象\封装\封装\03 案例2.cpp(8,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Circle.cpp
+  Point.cpp
+  正在生成代码...
+  封装.vcxproj -> C:\Users\Kelia\OneDrive\后端开发\caa\类和对象\封装\Debug\封装.exe
